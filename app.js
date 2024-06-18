@@ -2,8 +2,8 @@ const username = document.getElementById("username");
 const password = document.getElementById("password");
 const btn = document.getElementById("btn");
 
-let setUsername = "waqaskhan78430@gmail.com";
-let setPassword = "8356536khan";
+let setUsername = "Laritraders0";
+let setPassword = "9771131101";
 
 btn.addEventListener("click", (e) => {
   e.preventDefault();
